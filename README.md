@@ -1,4 +1,4 @@
-### QwQ...
+### \_(:з」∠)\_
 
 + My blog (based on the [December blogging system](https://github.com/trinitrotofu/December), written by myself): [https://tntofu.com/](https://tntofu.com/)
 + My other infrequently used github account: [remmina](https://github.com/remmina)
