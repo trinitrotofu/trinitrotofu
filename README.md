@@ -3,7 +3,7 @@
 + My blog (based on the [December blogging system](https://github.com/trinitrotofu/December), written by myself): [https://tofu.icu/](https://tofu.icu/)
 + My infrequently used github account: [remmina](https://github.com/remmina)
 + I am
-  + a second-year software engineering specialist student at the University of Toronto
+  + a software engineering specialist student at the University of Toronto
   + a team member of the University of Toronto ICPC (International Collegiate Programming Contest) team
   + a former contestant of Informatics Olympiad (in high school)
 
