@@ -1,7 +1,7 @@
 ### \_(:з」∠)\_
 
 + My blog (based on the [December blogging system](https://github.com/trinitrotofu/December), written by myself): [https://tofu.icu/](https://tofu.icu/)
-+ I am
++ I am / was
   + a software engineering specialist student at the University of Toronto
   + a team member of the University of Toronto ICPC (International Collegiate Programming Contest) team
   + a former contestant of Informatics Olympiad (in high school)
